@@ -10,13 +10,13 @@
 
 const FIREBASE_CONFIG = {
   // 👇 এখানে আপনার Firebase config দিন
-  apiKey:            "YOUR_API_KEY",
-  authDomain:        "YOUR_PROJECT.firebaseapp.com",
-  databaseURL:       "https://YOUR_PROJECT-default-rtdb.firebaseio.com",
-  projectId:         "YOUR_PROJECT",
-  storageBucket:     "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId:             "YOUR_APP_ID"
+  apiKey:            "AIzaSyCVyMiaeBiVhUFyK3Na_YStd4qXYNfKTf4",
+  authDomain:        "police-alert-da9f2.firebaseapp.com",
+  databaseURL:       "https://police-alert-da9f2-default-rtdb.asia-southeast1.firebasedatabase.app/",
+  projectId:         "police-alert-da9f2",
+  storageBucket:     "police-alert-da9f2.firebasestorage.app",
+  messagingSenderId: "79476446613",
+  appId:             "1:79476446613:web:8ab17a9a2c4488407a929c"
 };
 
 /* ---- Rate limit (local only, per device) ---- */

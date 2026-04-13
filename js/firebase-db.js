@@ -9,14 +9,13 @@
    ============================================= */
 
 const FIREBASE_CONFIG = {
-  // 👇 এখানে আপনার Firebase config দিন
-  apiKey:            "AIzaSyCVyMiaeBiVhUFyK3Na_YStd4qXYNfKTf4",
-  authDomain:        "police-alert-da9f2.firebaseapp.com",
-  databaseURL:       "https://police-alert-da9f2-default-rtdb.asia-southeast1.firebasedatabase.app/",
-  projectId:         "police-alert-da9f2",
-  storageBucket:     "police-alert-da9f2.firebasestorage.app",
+  apiKey: "AIzaSyCvyMiaeBiVnUFyK3Na_YStd4QXYNFkTF4",
+  authDomain: "police-alert-da9f2.firebaseapp.com",
+  databaseURL: "https://police-alert-da9f2-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "police-alert-da9f2",
+  storageBucket: "police-alert-da9f2.firebasestorage.app",
   messagingSenderId: "79476446613",
-  appId:             "1:79476446613:web:8ab17a9a2c4488407a929c"
+  appId: "1:79476446613:web:8ab17a9a2c4488407a929c"
 };
 
 /* ---- Rate limit (local only, per device) ---- */
